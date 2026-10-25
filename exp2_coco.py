@@ -1,3 +1,5 @@
+# Part A-Box plot analysis (Exp 2), Cocoa: Compute the five-number summary of Rating and of Cocoa % without using describe(). Draw box plots, list the outliers using the IQR rule, and draw side-by-side box plots of Rating for the top 5 company locations.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
